@@ -1,7 +1,3 @@
-Sure! Here’s a README template for your "Recipe Recommendation System" project, based on the code and data exploration in your notebook. You can further customize it as needed:
-
----
-
 # Recipe Recommendation System
 
 A machine learning project that recommends recipes based on user preferences and recipe features. This project includes data preprocessing, exploratory data analysis, and the construction of a content-based recommendation engine using nutritional and text features from a large recipe dataset.
@@ -74,7 +70,4 @@ To run the notebook:
 ## Contributors
 
 - [Jay Meesala](https://github.com/JFA24SCM23M)
-
----
-
-Let me know if you want to add sections like “Future Work” or “Demo,” or if you want to include example code for using the recommender!
+- [Saran Mannam](https://github.com/Mannam-Saran)
